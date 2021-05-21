@@ -6,6 +6,9 @@
 
 * after the mouse is no longer on the logo, words come back into their original form
 
+## The link for the project
+https://nomankey.github.io/sauceCartelTypography/
+
 
 ### Demonstration gif
 
