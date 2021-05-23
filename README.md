@@ -2,11 +2,11 @@
 **A mouse responsive logo of hiphop label sauce cartel** 
 
 
-* when the mouse goes above the logo, words spread out like if it's a fluid
+* when the mouse goes above the logo, words spread out like if it's some kind of fluid
 
 * after the mouse is no longer on the logo, words come back into their original form
 
-## The link for the project
+## The link of the project
 https://nomankey.github.io/sauceCartelTypography/
 
 
